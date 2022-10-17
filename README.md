@@ -1,11 +1,11 @@
-# Ejemplos de *iOS*
+# :boom: Ejemplos de *iOS*
 ## Algunos tareas para practicas programación en *Swift*
 Recopilación de pequeños programas que he hecho para practicar mi programación
 1. Hacer una **media**
 2. Ruleta **rusa**
 3. **Censurador** de palaras
 ## Cómo ejecutar los ficheros
-- Tener un *Mac*
+- Tener un *Mac* :computer:
 - Tener inslalado *Swift*
 - Tener un editor como *XCode*
 - O se puede usar un **compilador online**
@@ -18,3 +18,7 @@ for i in 1...10 {
 }
 print(total / 10)
 ```
+## Programas completados
+- [x] Media
+- [x] Ruleta
+- [ ] Censurador
