@@ -1,5 +1,5 @@
 # :boom: Ejemplos de *iOS*
-## Algunos tareas para practicas programación en *Swift*
+## Algunos ejemplos prácticos de programación en *Swift*
 Recopilación de pequeños programas que he hecho para practicar mi programación
 1. Hacer una **media**
 2. Ruleta **rusa**
